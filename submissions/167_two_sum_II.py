@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
 class Solution(object):
     def twoSum(self, numbers, target):
         """
